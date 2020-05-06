@@ -7,3 +7,6 @@ If I decide to add dynamic pages I will go with either Angular 9/10+ or React.js
 
 
 Comments are always welcomed
+
+tip on how to publish to github
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
