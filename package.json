@@ -1,0 +1,19 @@
+{
+  "name": "segevs",
+  "version": "1.0.0",
+  "description": "segevs.com website - personal website for Segev {CJ} Shmueli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segevsh/segevs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segevsh/segevs/issues"
+  },
+  "homepage": "https://github.com/segevsh/segevs#readme"
+}

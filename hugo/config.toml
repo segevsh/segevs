@@ -1,0 +1,7 @@
+baseURL = "https://segevs.com/"
+languageCode = "en-us"
+title = "Segev {CJ} Shmueli"
+publishDir = "../public"
+enableRobotsTXT = true
+assetDir = "assets"
+staticDir = "static"
